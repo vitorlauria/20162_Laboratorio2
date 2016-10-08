@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aplicacao1</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="acessar">Acessar</string>
 </resources>
